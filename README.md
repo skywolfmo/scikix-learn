@@ -29,7 +29,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-With the recent rise in the use of JAX in different domains, I decided to start this project that aims to create a Machine Learning Liberary inspired by Scikit-Learn.
+With the recent rise in the use of JAX in different domains, I decided to start this project that aims to create a Machine Learning Liberary inspired by Scikit-Learn using JAX.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [JAX](https://www.mongodb.com/) - Numpy++
